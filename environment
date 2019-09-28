@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=./innfos-cpp-sdk/sdk/lib/linux_x86_64/:$LIBRARY_PATH
