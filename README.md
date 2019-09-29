@@ -22,10 +22,12 @@ $ git clone https://github.com/innfos/innfos-delta-robot-controller
 
 
 运行模式
+
 Delta并联机器人提供以下运行模式:mode1,mode2
 配置环境变量:
 (1)$ . environment
 Note:每次打开终端都需执行此命令,如不执行,终端会提示找不到动态库”libActuatorController.so”
+
 (2)执行以下命令更改权限：
 $ chmod +x DeltaTest
 mode1:记录保存示教的点
