@@ -23,7 +23,7 @@ $ git clone https://github.com/innfos/innfos-cpp-sdk.git
 
 访问该链接download link下载Delta 机器人相关文件或者直接执行以下命令
 
-$ git clone https://github.com/innfos/innfos-delta-robot-controller
+$ git clone https://github.com/innfos/innfos-delta-robot-controller.git
 
 
 运行模式
