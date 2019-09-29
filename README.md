@@ -1,7 +1,9 @@
 Delta软件安装与使用
 
 本说明书是针对Delta并联机器人使用说明.
+
 在使用之前请仔细阅读本说明书内容 .
+
 Delta采用了并联结构,具有刚度大,承载能力强等优点,所有关节采用QDD Lite系列执行器搭建.同时,因QDD Lite系列执行器采用了复合材料，大大降低了高端机器人本机研发成本,主要应用于物流的包装分拣搬运,研究所实验室的研究等领域.
 
 
@@ -16,8 +18,11 @@ IAS软件的使用
 访问该链接下载机械臂软件或者直接执行以下命令
 
 访问该链接download link下载SDK相关文件或者直接执行以下命令
+
 $ git clone https://github.com/innfos/innfos-cpp-sdk.git
+
 访问该链接download link下载Delta 机器人相关文件或者直接执行以下命令
+
 $ git clone https://github.com/innfos/innfos-delta-robot-controller
 
 
