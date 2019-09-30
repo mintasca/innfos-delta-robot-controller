@@ -37,7 +37,7 @@ $ git clone https://github.com/innfos/innfos-delta-robot-controller.git
 ```
 
 
-###运行模式
+### 运行模式
 
 Delta并联机器人提供以下运行模式:mode1,mode2
 
